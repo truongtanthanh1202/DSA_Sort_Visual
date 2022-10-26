@@ -9,7 +9,7 @@ $ git clone https://github.com/truongtanthanh1202/DSA_Sort_Visual.git
 $ cd dsa_visual_sort
 $ npm install
 ```
-If you download as Zip file, open terminal and following steps:
+If you download this project as Zip file, open terminal and following steps:
 ```
 $ cd [...path...] dsa_visual_sort
 $ npm install
