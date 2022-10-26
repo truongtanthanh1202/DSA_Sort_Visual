@@ -30,7 +30,7 @@ const AppControls = ({
         <span>Size</span>
         <Menu
           placeholder="Array Size"
-          items={['10', '20', '30', '50', '75', '100']}
+          items={['10', '20', '30', '50', '60', '70', '80', '100']}
           selected={String(arraySize)}
           onSelect={onArraySizeChange}
         />
