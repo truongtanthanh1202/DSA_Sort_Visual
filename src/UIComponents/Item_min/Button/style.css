@@ -58,6 +58,7 @@
 }
 
 .Button__Label {
+  text-transform: none;
 }
 
 /* Modifiers */

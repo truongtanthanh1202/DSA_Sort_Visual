@@ -36,7 +36,7 @@ const AppControls = ({
         />
       </div>
 
-      <Button onClick={onGenerateRandomArray}>Randomize</Button>
+      <Button onClick={onGenerateRandomArray}>RandomValue</Button>
 
     </Fragment>
   );
@@ -47,8 +47,7 @@ AppControls.propTypes = {
   onAlgorithmChange: PropTypes.func.isRequired,
   onGenerateRandomArray: PropTypes.func.isRequired,
   arraySize: PropTypes.number,
-  onArraySizeChange: PropTypes.func.isRequired,
-  darkMode: PropTypes.bool
+  onArraySizeChange: PropTypes.func.isRequired
 };
 
 export default AppControls;
