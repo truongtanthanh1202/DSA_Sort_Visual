@@ -1,3 +1,5 @@
+Software requirement: NPM (Node package managerment) - https://nodejs.org/en/download/
+
 # Getting Started with Create React App
 
 If you want to run this app locally, clone this repo and install the dependencies.
@@ -5,6 +7,11 @@ If you want to run this app locally, clone this repo and install the dependencie
 ```
 $ git clone https://github.com/truongtanthanh1202/DSA_Sort_Visual.git
 $ cd dsa_visual_sort
+$ npm install
+```
+If you download as Zip file, open terminal and following steps:
+```
+$ cd [...path...] dsa_visual_sort
 $ npm install
 ```
 
