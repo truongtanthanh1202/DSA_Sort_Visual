@@ -3,7 +3,7 @@ import './style.css';
 
 // Sub components
 import SortChart from '../SortChart';
-import VisualizerControls from '../../Module/VisualControler';
+import VisualizerControls from '../../Module/VisualizerControls';
 import ProgressBar from '../../Module/ProgressBar';
 import ColorKey from '../../Module/ColorKey';
 import SortInfo from '../../Module/SortInfo';
