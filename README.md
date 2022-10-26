@@ -3,8 +3,8 @@
 If you want to run this app locally, clone this repo and install the dependencies.
 
 ```
-$ git clone https://github.com/truongtanthanh1202/DSA_Sort_Visual
-$ cd dsa
+$ git clone https://github.com/truongtanthanh1202/DSA_Sort_Visual.git
+$ cd dsa_visual_sort
 $ npm install
 ```
 
